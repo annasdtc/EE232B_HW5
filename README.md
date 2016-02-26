@@ -14,4 +14,4 @@ Compute:
 * Standard deviation of the waiting time for each class
 * Percentile 95 of waiting time for each class
 * Ratio of class 2 to class 1 for means, standard deviations and percentile 95
-* Maximum loading rate to assure average delays are at most 10 msec for class 1 and 150 msec for class 2 (priority queue case)
+* Maximum loading rate to assure mean delays are at most 10 msec for class 1 and 150 msec for class 2 (priority case)
