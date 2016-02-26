@@ -9,9 +9,9 @@ UCLA EE 232B - HW Set #5 - M/G/1 queuing system, FIFO/priority type queues
 * Queue is either FIFO or non-preemptive priority (class 1 are high priority)
 
 Compute:
-a. Mean system size for each class
-b. Average waiting time for each class
-c. Standard deviation of the waiting time for each class
-d. Percentile 95 of waiting time for each class
-e. Ratio of class 2 to class 1 for means, standard deviations and percentile 95
-f. Maximum loading rate to assure average delays are at most 10 msec for class 1 and 150 msec for class 2 (priority queue case)
+* Mean system size for each class
+* Average waiting time for each class
+* Standard deviation of the waiting time for each class
+* Percentile 95 of waiting time for each class
+* Ratio of class 2 to class 1 for means, standard deviations and percentile 95
+* Maximum loading rate to assure average delays are at most 10 msec for class 1 and 150 msec for class 2 (priority queue case)
