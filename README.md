@@ -3,7 +3,7 @@ UCLA EE 232B - HW Set #5 - M/G/1 queuing system, FIFO/priority type queues
 
 * Simulation of a queuing system with two classes of messages
 * Class 1 arrive at a rate lambda(1) and have service time exponentially distributed with mean 5 msec.
-* Class 2 arrive at a rate lambda(2) and have fixed service time 25 msec with probability 0.8 or 250 msec with probability 0.2
+* Class 2 arrive at a rate lambda(2) and have fixed service time 25 msec with probability 0.8 or 250 msec w.p. 0.2
 * lambda(1) = 15*lambda(2)
 * Traffic intensity rho from 0.1 to 0.9 in increments of 0.1
 * Queue is either FIFO or non-preemptive priority (class 1 are high priority)
